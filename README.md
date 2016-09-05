@@ -1,2 +1,2 @@
-# ∂py
+# ∂python
 Python Automatic Differentiation Framework
